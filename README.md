@@ -1,2 +1,3 @@
 # java-workpad
-Temporary work pad for java
+
+Workpad for java programs
