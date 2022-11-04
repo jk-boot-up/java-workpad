@@ -1,4 +1,4 @@
-package com.jk.explore.employees;
+package com.jk.explore.java.employees;
 
 public class Employee {
 
