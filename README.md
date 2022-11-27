@@ -2,6 +2,11 @@
 
 Workpad for java programs
 
-## git hub location
+## github location
 
-https://github.com/jk-boot-up/java-workpad
+    https://github.com/jk-boot-up/java-workpad
+
+## Parent Module
+
+    java-workpad
+
