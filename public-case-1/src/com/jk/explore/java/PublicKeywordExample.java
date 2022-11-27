@@ -7,7 +7,7 @@ import static java.lang.System.out;
 public class PublicKeywordExample {
 
     public static void main(String[] args) {
-        Country country = new Country("India", 1);;
+        Country country = new Country("India", 91);;
         out.println("Country Name: "+ country.getName());
         out.println("Country code is: "+ country.getCode());
     }

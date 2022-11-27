@@ -2,8 +2,8 @@ package com.jk.explore.java.countries;
 
 public class Country {
 
-    private String name;
-    private int code;
+    public String name;
+    public int code;
 
     public Country(String name, int code) {
         this.name = name;

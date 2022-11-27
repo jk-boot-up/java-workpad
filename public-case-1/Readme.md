@@ -6,4 +6,4 @@
 
 * https://github.com/jk-boot-up/java-workpad
 
-* Navigate to -> package-case-1
+* Navigate to -> public-case-1
