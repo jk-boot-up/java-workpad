@@ -6,7 +6,7 @@
 
 * https://github.com/jk-boot-up/java-workpad
 
-* Navigate to -> public -> public-case-1
+* Navigate to -> access-specifiers -> public -> public-case-1
 
 ## Java docs for public keyword
 
