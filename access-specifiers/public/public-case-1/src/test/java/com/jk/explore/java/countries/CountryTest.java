@@ -8,9 +8,11 @@ public class CountryTest {
 
     @Test
     public void countryTest1() {
-        Country country = new Country("India", 91);
-        assertEquals(country.code, 91);
-        assertEquals(country.name, "India");
+        Country country = new Country();
+        country.name = "India";
+        country.code = 91;
+        assertEquals(country.getCode(), 91);
+        assertEquals(country.getName(), "India");
     }
 
 }

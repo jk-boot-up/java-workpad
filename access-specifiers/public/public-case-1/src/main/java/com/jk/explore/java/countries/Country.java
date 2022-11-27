@@ -5,11 +5,6 @@ public class Country {
     public String name;
     public int code;
 
-    public Country(String name, int code) {
-        this.name = name;
-        this.code = code;
-    }
-
     public Country() {
         // do nothing
     }
