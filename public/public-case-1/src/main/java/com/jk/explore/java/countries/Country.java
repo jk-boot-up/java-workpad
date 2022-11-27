@@ -10,6 +10,10 @@ public class Country {
         this.code = code;
     }
 
+    public Country() {
+        // do nothing
+    }
+
     public String getName() {
         return name;
     }
