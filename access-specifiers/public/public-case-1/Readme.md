@@ -1,6 +1,6 @@
-# package keyword in java
+# public keyword in java
 
-* Reserved for specifying the folder structure for java classes
+* Reserved for access level specification 
 
 ## github location for examples
 
