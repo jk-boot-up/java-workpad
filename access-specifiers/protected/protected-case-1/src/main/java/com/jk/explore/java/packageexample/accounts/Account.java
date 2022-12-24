@@ -40,6 +40,15 @@ public class Account {
         locker.unlock();
     }
 
+    @Override
+    public String toString() {
+        return "Account{" +
+                "id=" + id +
+                ", balance=" + balance +
+                ", locker=" + locker +
+                '}';
+    }
+
     protected class Locker {
         protected String model;
         protected String key;
@@ -71,6 +80,14 @@ public class Account {
 
         protected void unlock() {
             out.println("Locker state changed to unlocked state");
+        }
+
+        @Override
+        public String toString() {
+            return "Locker{" +
+                    "model='" + model + '\'' +
+                    ", key='" + key + '\'' +
+                    '}';
         }
     }
 

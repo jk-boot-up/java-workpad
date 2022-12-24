@@ -21,9 +21,10 @@ public class CurrentAccount extends Account {
 
     @Override
     public String toString() {
-        String display = "Current account id is: " + getId()
-                + " Balance: " + this.balance +
-                " , Annual charges are: " + annualCharges;
-        return display;
+        return "CurrentAccount{" +
+                "id=" + id +
+                ", balance=" + balance +
+                ", locker=" + locker +
+                '}';
     }
 }

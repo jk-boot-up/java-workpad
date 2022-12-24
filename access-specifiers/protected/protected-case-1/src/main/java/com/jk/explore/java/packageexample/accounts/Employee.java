@@ -24,8 +24,7 @@ public class Employee {
         return "Employee{" +
                 "name='" + name + '\'' +
                 ", id=" + id +
-                ", savingsAccount Id =" + savingsAccount.id +
-                ", savingsAccount Balnce =" + savingsAccount.getBalance() +
+                ", savingsAccount=" + savingsAccount +
                 '}';
     }
 }

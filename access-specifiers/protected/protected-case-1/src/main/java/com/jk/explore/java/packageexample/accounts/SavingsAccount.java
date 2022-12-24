@@ -36,8 +36,10 @@ public class SavingsAccount extends Account {
 
         @Override
         public String toString() {
-
-            return super.toString();
+            return "SavingsLocker{" +
+                    "model='" + model + '\'' +
+                    ", key='" + key + '\'' +
+                    '}';
         }
     }
 }

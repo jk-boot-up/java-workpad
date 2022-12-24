@@ -14,6 +14,13 @@
 
 * Gradle
 
+## How to build with maven 
+
+* Navigate to _protected-case-1_ folder in terminal
+* Execute the following maven command
+
+      mvn clean install
+
 ## Java docs for protected keyword
 
 * protected fields/classes/methods can be accessed 
