@@ -11,7 +11,6 @@
         <module>main</module>
         <module>package</module>
         <module>access-specifiers</module>
-        <module>access-specifiers/protected/protected-case-1</module>
     </modules>
 
     <packaging>pom</packaging>

@@ -14,7 +14,6 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-
         <module>public-case-1</module>
     </modules>
 
