@@ -11,6 +11,6 @@ public class CurrentAccountTest {
     public void testAccess() {
         CurrentAccount currentAccount = new CurrentAccount(1, 400000, 5000);
         assertNotNull(currentAccount);
-        assertEquals(currentAccount.getAnnualCharges(), 1);
+        assertEquals(currentAccount.getAnnualCharges(), 5000);
     }
 }
