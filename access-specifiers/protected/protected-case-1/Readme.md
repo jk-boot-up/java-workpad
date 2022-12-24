@@ -26,7 +26,7 @@
 
 ## Access Table
 
-|Modifier	| Class	| Package	| Subclass	| World |
-|-----------|-------|-----------|-----------|-------|
-|public	|Y|	Y	|Y| 	N    |
+| Modifier	  | Class	| Package	| Subclass	| World |
+|------------|-------|-----------|-----------|-------|
+| protected	 |Y|	Y	|Y| 	N    |
 
