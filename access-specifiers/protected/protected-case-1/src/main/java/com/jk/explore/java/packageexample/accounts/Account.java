@@ -6,6 +6,8 @@ public class Account {
 
     protected int id;
 
+    protected int balance;
+
     protected int getBalance() {
         return balance;
     }
@@ -13,8 +15,6 @@ public class Account {
     protected void setBalance(int balance) {
         this.balance = balance;
     }
-
-    protected int balance;
 
     protected Locker locker;
 
@@ -76,4 +76,5 @@ public class Account {
 
 
 }
+
 
